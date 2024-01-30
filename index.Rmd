@@ -1,6 +1,6 @@
 ---
 title: "Pablo Sicilia Andrade"
-image: "frank.jpg"
+image: "Pablo_Sicilia.jpg"
 links:
   - label: GitHub
     url: "https://github.com/"
