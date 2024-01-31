@@ -14,18 +14,10 @@ output:
 
 Pablo Sicilia Andrade, estudante de ciencias genómicas
 
-## Education
+## Educación
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Lisenciatura en ciencias Genómicas (actiual)** | LCG, UNAM
 
-Ph.D. in Computer Science | September 2009 - May 2014
-
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+ | September 2019 - actualidad
 
 ## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
